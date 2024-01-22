@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Dika
 **`Developer`**
-I'm an full-stack developer and everything you wan't from me All project are build from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm an full-stack and everything you wan't from me All project are build from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ---
 
