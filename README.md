@@ -7,7 +7,7 @@ I'm an full-stack developer and everything you wan't from me All project are bui
 ### 🧰 Languages and Tools
 
 
-<img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" alt="python" height="30" style="padding-right:10px;">
+<a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" alt="python" height="30" style="padding-right:10px;"></a>
 <a><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/javascript.png" alt="javascript" height="30" style="padding-right:10px;"></a>
 <a><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/html.png" alt="html" height="30" style="padding-right:10px;"></a>
 <a href=""><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/css.png" alt="css" height="30" style="padding-right:10px;"></a>
