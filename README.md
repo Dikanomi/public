@@ -17,4 +17,5 @@ I'm a full-stack and everything you want I can. All projects are built from the 
 <a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/google-admin.png" alt="google-admin" height="30" style="padding-right:10px;"></a>
 <a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/azure.png" alt="azure" height="30" style="padding-right:10px;"></a>
 <a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/centos.png" alt="centos" height="30" style="padding-right:10px;"></a>
+<a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/electron.png" alt="electron" height="30" style="padding-right:10px"></a>
 #
