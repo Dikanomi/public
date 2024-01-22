@@ -8,12 +8,13 @@ I'm an full-stack developer and everything you wan't from me All project are bui
 
 
 <a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" alt="python" height="30" style="padding-right:10px;"></a>
-<a><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/javascript.png" alt="javascript" height="30" style="padding-right:10px;"></a>
-<a><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/html.png" alt="html" height="30" style="padding-right:10px;"></a>
-<a href=""><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/css.png" alt="css" height="30" style="padding-right:10px;"></a>
-<a><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/linuxserver-io.png" alt="linuxserver" height="30" style="padding-right:10px;"></a>
-<a><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/ubuntu-alt.png" alt="ubuntu-alt" height="30" style="padding-right:10px;"></a>
-<a><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/vscode.png" alt="vscode" height="30" style="padding-right:10px;"></a>
-<a><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/google-admin.png" alt="google-admin" height="30" style="padding-right:10px;"></a>
-<a href=""><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/azure-container-instances.png" alt="azure-container-instances" height="50"></a>
+<a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/javascript.png" alt="javascript" height="30" style="padding-right:10px;"></a>
+<a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/html.png" alt="html" height="30" style="padding-right:10px;"></a>
+<a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/css.png" alt="css" height="30" style="padding-right:10px;"></a>
+<a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/linuxserver-io.png" alt="linuxserver" height="30" style="padding-right:10px;"></a>
+<a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/ubuntu-alt.png" alt="ubuntu-alt" height="30" style="padding-right:10px;"></a>
+<a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/vscode.png" alt="vscode" height="30" style="padding-right:10px;"></a>
+<a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/google-admin.png" alt="google-admin" height="30" style="padding-right:10px;"></a>
+<a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/azure.png" alt="azure" height="30" style="padding-right:10px;"></a>
+<a href="javascript:void(0)"><img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/centos.png" alt="centos" height="30" style="padding-right:10px;"></a>
 #
