@@ -88,5 +88,4 @@ I'm a full-stack and everything you want I can. All projects are built from the 
       </div>
     </div>
   </foreignObject>
-</svgg
-H
+</svg>
